@@ -1,0 +1,22 @@
+---
+title: "Photos posted June 26th, 2014 2:17pm"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos posted June 26th, 2014 2:17pm
+
+Originally posted on June 26th, 2014 2:17pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/89995343196_0.jpg")
+knitr::include_graphics("images/89995343196_1.jpg")
+knitr::include_graphics("images/89995343196_2.jpg")
+knitr::include_graphics("images/89995343196_3.jpg")
+knitr::include_graphics("images/89995343196_4.jpg")
+knitr::include_graphics("images/89995343196_5.jpg")
+knitr::include_graphics("images/89995343196_6.jpg")
+```
+

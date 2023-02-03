@@ -1,0 +1,25 @@
+---
+title: "Photos Part 1 Pictures"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos Part 1 Pictures
+
+Originally posted on June 4th, 2014 8:23pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/87860263756_0.jpg")
+knitr::include_graphics("images/87860263756_1.jpg")
+knitr::include_graphics("images/87860263756_2.jpg")
+knitr::include_graphics("images/87860263756_3.jpg")
+knitr::include_graphics("images/87860263756_4.jpg")
+knitr::include_graphics("images/87860263756_5.jpg")
+knitr::include_graphics("images/87860263756_6.jpg")
+knitr::include_graphics("images/87860263756_7.jpg")
+knitr::include_graphics("images/87860263756_8.jpg")
+knitr::include_graphics("images/87860263756_9.jpg")
+```
+

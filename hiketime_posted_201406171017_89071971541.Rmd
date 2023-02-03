@@ -1,0 +1,25 @@
+---
+title: "Photos Part 4: Standing Bear to Hot Springs, NC"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos Part 4: Standing Bear to Hot Springs, NC
+
+Originally posted on June 17th, 2014 10:17am
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/89071971541_0.jpg")
+knitr::include_graphics("images/89071971541_1.jpg")
+knitr::include_graphics("images/89071971541_2.jpg")
+knitr::include_graphics("images/89071971541_3.jpg")
+knitr::include_graphics("images/89071971541_4.jpg")
+knitr::include_graphics("images/89071971541_5.jpg")
+knitr::include_graphics("images/89071971541_6.jpg")
+knitr::include_graphics("images/89071971541_7.jpg")
+knitr::include_graphics("images/89071971541_8.jpg")
+knitr::include_graphics("images/89071971541_9.jpg")
+```
+

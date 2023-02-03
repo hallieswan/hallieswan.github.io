@@ -1,0 +1,22 @@
+---
+title: "Photos Part 6 plus shoe damage"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos Part 6 plus shoe damage
+
+Originally posted on July 15th, 2014 5:27pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/91897340916_0.jpg")
+knitr::include_graphics("images/91897340916_1.jpg")
+knitr::include_graphics("images/91897340916_2.jpg")
+knitr::include_graphics("images/91897340916_3.jpg")
+knitr::include_graphics("images/91897340916_4.jpg")
+knitr::include_graphics("images/91897340916_5.jpg")
+knitr::include_graphics("images/91897340916_6.jpg")
+```
+

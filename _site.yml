@@ -25,7 +25,54 @@ navbar:
           href: https://www.youtube.com/watch?v=2yqx1MVqNoY
         - text: "Appalachian Trail"
           menu: 
-            - text: "Part 1"
+            - text: "A Beginning"
+              href: hiketime_posted_201405292309_87277083131.html
+            - text: "Photos Getting ready!!"
+              href: hiketime_posted_201405301717_87344150536.html
+            - text: "Part 1 (days 1-4) Georgia"
+              href: hiketime_posted_201406042011_87859256151.html
+            - text: "Photos Part 1"
+              href: hiketime_posted_201406042023_87860263756.html
+            - text: "Photos Part 1: Flora and fauna"
+              href: hiketime_posted_201406042027_87860668031.html
+            - text: "Photos Part 2: Goodbye Georgia, Hello North Carolina! (Days 5-8)"
+              href: hiketime_posted_201406090658_88273929056.html
+            - text: "Part 2: Days 5-8"
+              href: hiketime_posted_201406090823_88279363301.html
+            - text: "Part 3: Day 9 and 10"
+              href: hiketime_posted_201406101349_88405545106.html
+            - text: "Photos Part 3: Day 9 and 10"
+              href: hiketime_posted_201406101353_88405950361.html
+            - text: "Part 4: The Smokies to Hot Springs (Days 11-16)"
+              href: hiketime_posted_201406161410_88990804756.html
+            - text: "Photos Part 4: The Smokies"
+              href: hiketime_posted_201406161423_88991992436.html
+            - text: "Photos Part 4: The Smokies"
+              href: hiketime_posted_201406171017_89071922116.html
+            - text: "Photos Part 4: Standing Bear to Hot Springs, NC"
+              href: hiketime_posted_201406171017_89071971541.html
+            - text: "Part 5: Hot Springs, NC to Damascus, VA"
+              href: hiketime_posted_201406261334_89991599576.html
+            - text: "Photos Part 5"
+              href: hiketime_posted_201406261339_89992031101.html
+            - text: "Photos posted June 26th, 2014 2:17pm"
+              href: hiketime_posted_201406261417_89995343196.html
+            - text: "Part 6: Damascus, VA to Waynesboro, VA"
+              href: hiketime_posted_201407151721_91896869526.html
+            - text: "Photos Part 6"
+              href: hiketime_posted_201407151723_91897068646.html
+            - text: "Photos Part 6 Cont."
+              href: hiketime_posted_201407151726_91897238236.html
+            - text: "Photos Part 6 plus shoe damage"
+              href: hiketime_posted_201407151727_91897340916.html
+            - text: "The Rest"
+              href: hiketime_posted_201409261900_98513095646.html
+            - text: "Photos posted September 26th, 2014 7:02pm"
+              href: hiketime_posted_201409261902_98513267496.html
+            - text: "Photos posted September 26th, 2014 7:04pm"
+              href: hiketime_posted_201409261904_98513342671.html
+            - text: "Photos posted September 26th, 2014 7:06pm"
+              href: hiketime_posted_201409261906_98513491046.html
   right:
     - text: "GitHub"
       icon: fa-github

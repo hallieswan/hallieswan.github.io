@@ -1,0 +1,25 @@
+---
+title: "Photos Getting ready!!"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos Getting ready!!
+
+Originally posted on May 30th, 2014 5:17pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/87344150536_0.jpg")
+knitr::include_graphics("images/87344150536_1.jpg")
+knitr::include_graphics("images/87344150536_2.jpg")
+knitr::include_graphics("images/87344150536_3.jpg")
+knitr::include_graphics("images/87344150536_4.jpg")
+knitr::include_graphics("images/87344150536_5.jpg")
+knitr::include_graphics("images/87344150536_6.jpg")
+knitr::include_graphics("images/87344150536_7.jpg")
+knitr::include_graphics("images/87344150536_8.jpg")
+knitr::include_graphics("images/87344150536_9.jpg")
+```
+

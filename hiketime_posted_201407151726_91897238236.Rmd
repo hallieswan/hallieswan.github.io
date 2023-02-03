@@ -1,0 +1,25 @@
+---
+title: "Photos Part 6 Cont."
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos Part 6 Cont.
+
+Originally posted on July 15th, 2014 5:26pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/91897238236_0.jpg")
+knitr::include_graphics("images/91897238236_1.jpg")
+knitr::include_graphics("images/91897238236_2.jpg")
+knitr::include_graphics("images/91897238236_3.jpg")
+knitr::include_graphics("images/91897238236_4.jpg")
+knitr::include_graphics("images/91897238236_5.jpg")
+knitr::include_graphics("images/91897238236_6.jpg")
+knitr::include_graphics("images/91897238236_7.jpg")
+knitr::include_graphics("images/91897238236_8.jpg")
+knitr::include_graphics("images/91897238236_9.jpg")
+```
+

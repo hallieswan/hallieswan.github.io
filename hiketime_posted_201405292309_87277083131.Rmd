@@ -1,0 +1,33 @@
+---
+title: "A Beginning"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## A Beginning
+
+Originally posted on May 29th, 2014 11:09pm
+
+“It is good to have an end to journey toward; but it is the journey that matters, in the end.”
+– Ursula K. Le Guin
+
+Tomorrow I’ll be traveling around 2,200 miles by car, boat, and train so that on Sunday, I can spend the next four to six months walking that same distance, albeit heading north instead of east.
+
+What? Why? That seems crazy! And horribly inefficient. 
+
+Yes, yes it does. But what are you going to do when you’re a recent college graduate from the west coast with a hankering to see the east coast? What better way than on foot on the Appalachian Trail?
+
+The Appalachian Trail (AT) is a 2,180+ mile trail that runs from Springer Mountain in Georgia to Mt. Katahdin in Maine. It is the best known national scenic trail in the United States. Sometimes referred to as the People’s Trail, around 2-3 million people visit the trail each year, according to the Appalachian Trail Conservancy. Most of them visit for an afternoon, some for a few days or a week, and a small number attempt something called a thru-hike.
+
+A thru-hike is simple in theory: walk the entirety of the AT in one go. However, in practice, it’s a bit more of an undertaking. Only one out of every four individuals who begin hiking with this goal achieve it. 
+
+So, why do it? I get asked that question a lot. I’ve asked myself that question a lot. And even though I’ve given many answers, from the cop-out (“I like hiking”) to something that feels a little more true (“I need an adventure, something to test my mettle, to wake me up”), I honestly haven’t really figured it out. But I want to go, I’ve bought the ticket, and maybe that’s good enough for now.
+
+And it’s not like I won’t have time to think about my reasons while I’m out there. I’ll have nothing but time.
+
+So for now, that’s it. I’ll do my best to keep track of my journey on here, so we can take this adventure on together (and my parents have proof that I’m still kicking).
+
+It’s hike time.
+

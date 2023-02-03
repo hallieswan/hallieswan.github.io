@@ -1,0 +1,25 @@
+---
+title: "Photos posted September 26th, 2014 7:02pm"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos posted September 26th, 2014 7:02pm
+
+Originally posted on September 26th, 2014 7:02pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/98513267496_0.jpg")
+knitr::include_graphics("images/98513267496_1.jpg")
+knitr::include_graphics("images/98513267496_2.jpg")
+knitr::include_graphics("images/98513267496_3.jpg")
+knitr::include_graphics("images/98513267496_4.jpg")
+knitr::include_graphics("images/98513267496_5.jpg")
+knitr::include_graphics("images/98513267496_6.jpg")
+knitr::include_graphics("images/98513267496_7.jpg")
+knitr::include_graphics("images/98513267496_8.jpg")
+knitr::include_graphics("images/98513267496_9.jpg")
+```
+

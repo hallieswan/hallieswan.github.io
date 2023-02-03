@@ -1,0 +1,25 @@
+---
+title: "Photos Part 3: Day 9 and 10"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Photos Part 3: Day 9 and 10
+
+Originally posted on June 10th, 2014 1:53pm
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/88405950361_0.jpg")
+knitr::include_graphics("images/88405950361_1.jpg")
+knitr::include_graphics("images/88405950361_2.jpg")
+knitr::include_graphics("images/88405950361_3.jpg")
+knitr::include_graphics("images/88405950361_4.jpg")
+knitr::include_graphics("images/88405950361_5.jpg")
+knitr::include_graphics("images/88405950361_6.png")
+knitr::include_graphics("images/88405950361_7.jpg")
+knitr::include_graphics("images/88405950361_8.jpg")
+knitr::include_graphics("images/88405950361_9.jpg")
+```
+
