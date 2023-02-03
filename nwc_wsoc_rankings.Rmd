@@ -1,0 +1,159 @@
+---
+title: "Northwest Conference Women's Soccer Rankings"
+date: "2/1/2023"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+params:
+  data_dir: "_data"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, error = FALSE)
+library(tidyverse)
+library(here)
+library(directlabels) # per suggestion in this answer: https://stackoverflow.com/a/29359816
+library(plotly)
+```
+
+## Background
+
+When I played for the Whitman College women's soccer team from 2010-2013, Puget Sound dominated the [Northwest Conference](https://nwcsports.com/index.aspx). However, when I checked the rankings today, Pacific Lutheran had beat out Puget Sound for the top position. I was curious to see how team standings had changed year-over-year. 
+
+```{r data_read_standings}
+file <- tail(list.files(here(params$data_dir), pattern = "nwc_rankings_wsoc", full.names = TRUE), 1)
+standings <- read_csv(file, col_types = cols())
+```
+
+```{r data_clean_standings}
+standings_clean <- standings %>%
+  # put record into separate columns
+  separate(conf, sep = "-", into = c("wins", "losses", "draws"), remove = FALSE, fill = "right", convert = TRUE) %>%
+  mutate(draws = ifelse(is.na(draws), 0, draws)) %>%
+  # calculate points
+  rowwise() %>%
+  mutate(
+    pts_calculated = sum(wins * 3 + draws)
+  ) %>%
+  ungroup() %>%
+  # add ranking
+  group_by(standings_year) %>%
+  mutate(rank = rank(-pts_calculated)) %>%
+  ungroup()
+
+# ensure calculated points matches reported points
+stopifnot({
+  standings_clean %>%
+    filter(!is.na(pts)) %>%
+    filter(pts != pts_calculated) %>%
+    {nrow(.) == 0}
+})
+```
+
+## Exploration
+
+During my career (2010-2013), Puget Sound won the league handily. However, while Puget Sound has continued to perform at the top of the league since then, Pacific Lutheran has had a dramatic improvement in performance and has secured first place since 2016*. 
+
+*Due to COVID, the 2020 season was [postponed](https://www.d3sports.com/notables/2020/06/schools-call-it-off-for-fall). Although it looks like some games may have been played in the spring of 2021, the standings weren't reported on the official Northwest Conference site, as far as I can tell. 
+
+```{r plot_pts_standings}
+YEARS <- seq.int(
+  min(standings_clean$standings_year), 
+  max(standings_clean$standings_year), 
+  length.out = 5)
+hallie_years <- data.frame(
+  start_year = 2010,
+  end_year = 2013,
+  annotation = "Hallie's Career"
+)
+plot_pts_standings <- standings_clean %>%
+  ggplot(aes(x = standings_year, y = pts_calculated, color = school)) + 
+  theme_bw() + 
+  coord_cartesian(ylim = c(0, max(standings_clean$pts_calculated))) + 
+  scale_x_continuous(breaks = YEARS) + 
+  theme(panel.grid.minor.x = element_blank()) + 
+  geom_rect(
+    data = hallie_years,
+    inherit.aes = FALSE,
+    aes(
+      color = annotation,
+      xmin = start_year, xmax = end_year),
+    ymin = -5, ymax = max(standings_clean$pts_calculated)*1.1,
+    alpha = 0.25
+  ) +
+  geom_point() +
+  geom_line()
+ggplotly(plot_pts_standings)
+```
+
+*Click on a team in the legend to show/hide its data. Double click on a team to only show its data.*
+
+```{r data_read_coaches}
+# manually create ups coaches
+coaches_ups <- bind_rows(
+  data.frame(year = 1995:2015, head_coach = "Randy Hanson"),
+  data.frame(year = 2016:2018, head_coach = "Joseph Vari"),
+  data.frame(year = 2019:2022, head_coach = "Kim Calkins")
+) %>%
+  mutate(school = "Puget Sound", 
+         school_abbrev = "UPS")
+
+# read in plu coaches and clean
+filename <- list.files(here(params$data_dir), pattern = "plu_wsoc_head_coaches_", full.names = TRUE)
+coaches_plu <- read_csv(filename, col_types = cols()) %>%
+  select(year, head_coach = `head coach`) %>%
+  # add 2022 season
+  bind_rows(data.frame(year = "2022", head_coach = "Seth Spidahl")) %>%
+  mutate(school = "Pacific Lutheran", 
+         year = as.numeric(year), 
+         school_abbrev = "PLU") %>%
+  # removes 2020 season
+  filter(!is.na(year))
+
+# combine
+coaches <- bind_rows(coaches_ups, coaches_plu)
+```
+
+Pacific Lutheran's meteoric rise in rankings coincides with the hiring of a new coach, Seth Spidahl. Puget Sound's change in rankings doesn't seem to coincide as cleanly with a single coach. 
+
+```{r data_plot_coaches}
+coaches_standings <- inner_join(
+  standings_clean, coaches, by = c("standings_year" = "year", "school")
+) %>%
+  arrange(school, standings_year) %>%
+  mutate(
+    school_head_coach = sprintf("%s: %s", school_abbrev, head_coach),
+    school_head_coach = factor(school_head_coach, levels = unique(school_head_coach))
+  )
+plot_coaches_standings <- coaches_standings %>%
+  ggplot(aes(x = standings_year, y = pts_calculated)) +
+  geom_line(aes(group = school, color = school_head_coach)) +
+  geom_point(aes(color = school_head_coach), size = 4) +
+  theme_bw() + 
+  coord_cartesian(ylim = c(0, max(standings_clean$pts_calculated))) + 
+  scale_color_manual(values = c("gold", "gold3", "gold4", "firebrick1", "firebrick3", "firebrick4")) +
+  scale_x_continuous(breaks = YEARS) + 
+  labs(title = "Northwest Conference Women's Soccer - Head Coaches")
+print(plot_coaches_standings)
+```
+
+## Conclusion
+
+Pacific Lutheran has placed first in the Northwest Conference Women's Soccer league for the last six years, displacing Puget Sound as the dominant team since I played. The hiring of a new coach at Pacific Lutheran coincides with this improvement in performance.
+
+## Data Sources
+
+### Conference Standings
+
+The women's soccer standings are hosted on the [Northwest Conference site](https://nwcsports.com/standings.aspx?path=wsoc). I [scraped](_data_prep/nwc_rankings.R) the standings for each year using [rvest](https://rvest.tidyverse.org).
+
+### Head Coaches
+
+The head coaches for Pacific Lutheran [up to 2021](https://golutes.com/sports/2018/5/30/womens-soccer-year-by-year-history.aspx) was [easily scraped](_data_prep/nwc_wsoc_head_coaches.R). I manually curated the head coach for [2022](https://golutes.com/sports/womens-soccer/coaches/2022).
+
+Puget Sound was a bit more difficult, because I couldn't find a well structured data source. I manually curated a list of coaches --  
+
+  - Randy Hanson was head coach from [1995-2015](https://trail.pugetsound.edu/?p=13207)
+  - Joseph Vari became head coach in [2016](https://trail.pugetsound.edu/?p=14508) and continued through [2018](https://nwcsports.com/news/2018/11/7/11_7_2018_4606.aspx)
+  - Kim Calkins has been head coach [since 2019](https://loggerathletics.com/sports/womens-soccer/roster/coaches/kim-calkins/160)

@@ -1,4 +1,12 @@
 #######################################################################################
+# input data files
+_data/
+
+# Rproject
+*.Rproj
+#######################################################################################
+
+#######################################################################################
 # source: https://github.com/github/gitignore/blob/main/R.gitignore ###################
 # History files
 .Rhistory
@@ -42,7 +50,8 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# HS - commenting out so that site is included
+# docs/ 
 
 # translation temp files
 po/*~

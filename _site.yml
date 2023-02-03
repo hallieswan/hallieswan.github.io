@@ -1,0 +1,32 @@
+name: "hallieswan.github.io"
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+navbar:
+  title: "Hallie Swan"
+  left: 
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Analyses"
+      menu:
+        - text: "NWC Women's Soccer Rankings"
+          icon: fa-futbol
+          href: nwc_wsoc_rankings.html
+    - text: "Hiking"
+      menu:
+        - text: "Pacific Crest Trail"
+          href: https://www.youtube.com/watch?v=JTrpOsJECrk
+        - text: "Continental Divide Trail"
+          href: https://www.youtube.com/watch?v=ZCvBP4cy1bg
+        - text: "Wonderland Trail"
+          href: https://www.youtube.com/watch?v=2yqx1MVqNoY
+        - text: "Appalachian Trail"
+          menu: 
+            - text: "Part 1"
+  right:
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/hallieswan
