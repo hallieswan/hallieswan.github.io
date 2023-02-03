@@ -1,5 +1,6 @@
 name: "hallieswan.github.io"
 output_dir: "docs"
+exclude: ["R", "DESCRIPTION", "NAMESPACE", "man"]
 output:
   html_document:
     theme: cosmo
@@ -15,7 +16,7 @@ navbar:
       menu:
         - text: "NWC Women's Soccer Rankings"
           icon: fa-futbol
-          href: nwc_wsoc_rankings.html
+          href: post-nwc_wsoc_rankings.html
     - text: "Hiking"
       icon: fa-map
       menu:
@@ -26,7 +27,7 @@ navbar:
         - text: "Wonderland Trail Video"
           href: https://www.youtube.com/watch?v=2yqx1MVqNoY
         - text: "Appalachian Trail Blog"
-          href: appalachian_trail_blog.html
+          href: post-appalachian_trail_blog.html
   right:
     - text: "GitHub"
       icon: fa-code-branch
