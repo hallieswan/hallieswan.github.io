@@ -146,11 +146,11 @@ Pacific Lutheran has placed first in the Northwest Conference Women's Soccer lea
 
 ### Conference Standings
 
-The women's soccer standings are hosted on the [Northwest Conference site](https://nwcsports.com/standings.aspx?path=wsoc). I [scraped](_data_prep/nwc_rankings.R) the standings for each year using [rvest](https://rvest.tidyverse.org).
+The women's soccer standings are hosted on the [Northwest Conference site](https://nwcsports.com/standings.aspx?path=wsoc). I [scraped](https://github.com/hallieswan/hallieswan.github.io/blob/main/_data_prep/nwc_rankings.R) the standings for each year using [rvest](https://rvest.tidyverse.org).
 
 ### Head Coaches
 
-The head coaches for Pacific Lutheran [up to 2021](https://golutes.com/sports/2018/5/30/womens-soccer-year-by-year-history.aspx) was [easily scraped](_data_prep/nwc_wsoc_head_coaches.R). I manually curated the head coach for [2022](https://golutes.com/sports/womens-soccer/coaches/2022).
+The head coaches for Pacific Lutheran [up to 2021](https://golutes.com/sports/2018/5/30/womens-soccer-year-by-year-history.aspx) was [easily scraped](https://github.com/hallieswan/hallieswan.github.io/blob/main/_data_prep/nwc_wsoc_head_coaches_plu.R). I manually curated the head coach for [2022](https://golutes.com/sports/womens-soccer/coaches/2022).
 
 Puget Sound was a bit more difficult, because I couldn't find a well structured data source. I manually curated a list of coaches --  
 
