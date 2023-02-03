@@ -6,11 +6,13 @@ output:
     toc_float: true
 ---
 
+*In 2014, I hiked the Appalachian trail northbound from Georgia to Maine. I wrote a blog along the way, which was originally posted on Tumblr. I've moved the blog to Rmarkdown so it's easier to manage going forward. I've tweaked a few post titles and a bit of text formatting for consistency and clarity, but otherwise the blog's content is unchanged from its original form.*
+
 ## A Beginning
 
-Originally posted on May 29th, 2014 11:09pm
+*Originally posted on May 29th, 2014 11:09pm*
 
-“It is good to have an end to journey toward; but it is the journey that matters, in the end.”
+"It is good to have an end to journey toward; but it is the journey that matters, in the end."
 – Ursula K. Le Guin
 
 Tomorrow I’ll be traveling around 2,200 miles by car, boat, and train so that on Sunday, I can spend the next four to six months walking that same distance, albeit heading north instead of east.
@@ -23,43 +25,42 @@ The Appalachian Trail (AT) is a 2,180+ mile trail that runs from Springer Mounta
 
 A thru-hike is simple in theory: walk the entirety of the AT in one go. However, in practice, it’s a bit more of an undertaking. Only one out of every four individuals who begin hiking with this goal achieve it. 
 
-So, why do it? I get asked that question a lot. I’ve asked myself that question a lot. And even though I’ve given many answers, from the cop-out (“I like hiking”) to something that feels a little more true (“I need an adventure, something to test my mettle, to wake me up”), I honestly haven’t really figured it out. But I want to go, I’ve bought the ticket, and maybe that’s good enough for now.
+So, why do it? I get asked that question a lot. I’ve asked myself that question a lot. And even though I’ve given many answers, from the cop-out ("I like hiking") to something that feels a little more true ("I need an adventure, something to test my mettle, to wake me up"), I honestly haven’t really figured it out. But I want to go, I’ve bought the ticket, and maybe that’s good enough for now.
 
 And it’s not like I won’t have time to think about my reasons while I’m out there. I’ll have nothing but time.
 
 So for now, that’s it. I’ll do my best to keep track of my journey on here, so we can take this adventure on together (and my parents have proof that I’m still kicking).
 
-It’s hike time.
+It’s hike time.  
 
-## Photos Getting ready!!
+## Photos: Getting ready!!
 
-Originally posted on May 30th, 2014 5:17pm
+*Originally posted on May 30th, 2014 5:17pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/87344150536_0.jpg")
-knitr::include_graphics("images/87344150536_1.jpg")
-knitr::include_graphics("images/87344150536_2.jpg")
-knitr::include_graphics("images/87344150536_3.jpg")
-knitr::include_graphics("images/87344150536_4.jpg")
-knitr::include_graphics("images/87344150536_5.jpg")
-knitr::include_graphics("images/87344150536_6.jpg")
-knitr::include_graphics("images/87344150536_7.jpg")
-knitr::include_graphics("images/87344150536_8.jpg")
-knitr::include_graphics("images/87344150536_9.jpg")
+knitr::include_graphics("images/87344150536_0.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_1.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_2.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_3.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_4.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_5.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_6.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_7.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_8.jpg", error = FALSE)
+knitr::include_graphics("images/87344150536_9.jpg", error = FALSE)
 ```
 
-## Part 1 (days 1-4) Georgia
+## Part 1: Georgia (days 1-4)
 
-Originally posted on June 4th, 2014 8:11pm
+*Originally posted on June 4th, 2014 8:11pm*
 
 Wow. It has been a crazy 4 days. Here’s an overview:
 
-Day 1: Amicalola Falls State Park Approach trail (8.8 miles); Springer Mtn. —> Justus Creek (14.3 miles on AT, from now on all mileage listed is on the AT)
-Day 2: Justus Creek —> Neel Gap (17.4 miles)
-Day 3: Neel Gap —> Blue Mtn. Shelter (18.8 miles)
-Day 4: Blue Mtn. Shelter —> Dicks Creek Gap (19.1 miles)
-
-Total Mileage: 69.6 miles from Springer Mtn. + 8.8 mile Approach Trail (78.4 miles total)
+- Day 1: Amicalola Falls State Park Approach trail (8.8 miles); Springer Mtn. —> Justus Creek (14.3 miles on AT, from now on all mileage listed is on the AT)
+- Day 2: Justus Creek —> Neel Gap (17.4 miles)
+- Day 3: Neel Gap —> Blue Mtn. Shelter (18.8 miles)
+- Day 4: Blue Mtn. Shelter —> Dicks Creek Gap (19.1 miles)
+- Total Mileage: 69.6 miles from Springer Mtn. + 8.8 mile Approach Trail (78.4 miles total)
 
 Right now I’m in a hostel down the road from Dicks Creek Gap called Top of Georgia. It’s an awesome place (brand new this year), and although I’m glad to be here, the extra half mile road walk I did to get here almost put me flat on my back. I am beat. But happy. For the most part. 
 
@@ -101,73 +102,59 @@ We made alright time, but it was clear we were both very tired. Viceroy stopped 
 
 I went down to the creek and soaked my feet. I was happy and pleasantly exhausted. It was a good first day.
 
-“A journey of a thousand miles begins with a single step.” Laozi
+"A journey of a thousand miles begins with a single step." Laozi
 
 Oh, also, from the wisdom of Hallie on Days 2-4, Georgia takes it badly when you call her mountains weak. She’s been punishing me with switchbacks, long stretches of piled rocks masquerading as a trail, rock staircases and other ankle-twisting nastiness. Fun times, especially at the end of the day! Check out the pictures to see what I mean. 
 
 Other side note, Brett of the hostel boys went home sick. Unfortunately, Ben also had to head home because of illness. But the other three are still going and are at the hostel too. Hopefully I’ll get to see them more on the trail!
 
-Final last side note, there’s two bunk rooms in the hostel, and I swear two of the guys are having a “snore-off”.
+Final last side note, there’s two bunk rooms in the hostel, and I swear two of the guys are having a "snore-off".
 
-## Photos Part 1 Pictures
+## Photos: Part 1
 
-Originally posted on June 4th, 2014 8:23pm
-
-```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/87860263756_0.jpg")
-knitr::include_graphics("images/87860263756_1.jpg")
-knitr::include_graphics("images/87860263756_2.jpg")
-knitr::include_graphics("images/87860263756_3.jpg")
-knitr::include_graphics("images/87860263756_4.jpg")
-knitr::include_graphics("images/87860263756_5.jpg")
-knitr::include_graphics("images/87860263756_6.jpg")
-knitr::include_graphics("images/87860263756_7.jpg")
-knitr::include_graphics("images/87860263756_8.jpg")
-knitr::include_graphics("images/87860263756_9.jpg")
-```
-
-## Photos Part 1: Flora and fauna (if you can identify any of these, let me know! I’d love to know what exactly I’m looking at all day)
-
-Originally posted on June 4th, 2014 8:27pm
+*Originally posted on June 4th, 2014 8:23pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/87860668031_0.jpg")
-knitr::include_graphics("images/87860668031_1.jpg")
-knitr::include_graphics("images/87860668031_2.jpg")
-knitr::include_graphics("images/87860668031_3.jpg")
-knitr::include_graphics("images/87860668031_4.jpg")
-knitr::include_graphics("images/87860668031_5.jpg")
-knitr::include_graphics("images/87860668031_6.jpg")
-knitr::include_graphics("images/87860668031_7.jpg")
-knitr::include_graphics("images/87860668031_8.jpg")
-knitr::include_graphics("images/87860668031_9.jpg")
+knitr::include_graphics("images/87860263756_0.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_1.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_2.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_3.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_4.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_5.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_6.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_7.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_8.jpg", error = FALSE)
+knitr::include_graphics("images/87860263756_9.jpg", error = FALSE)
 ```
 
-## Photos Part 2: Goodbye Georgia, Hello North Carolina! (Days 5-8)
+## Photos: Part 1 Flora and fauna 
 
-Originally posted on June 9th, 2014 6:58am
+*Originally posted on June 4th, 2014 8:27pm*
+
+If you can identify any of these, let me know! I’d love to know what exactly I’m looking at all day.
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/88273929056_0.jpg")
-knitr::include_graphics("images/88273929056_1.jpg")
-knitr::include_graphics("images/88273929056_2.jpg")
-knitr::include_graphics("images/88273929056_3.jpg")
-knitr::include_graphics("images/88273929056_4.jpg")
-knitr::include_graphics("images/88273929056_5.jpg")
-knitr::include_graphics("images/88273929056_6.jpg")
-knitr::include_graphics("images/88273929056_7.jpg")
+knitr::include_graphics("images/87860668031_0.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_1.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_2.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_3.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_4.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_5.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_6.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_7.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_8.jpg", error = FALSE)
+knitr::include_graphics("images/87860668031_9.jpg", error = FALSE)
 ```
 
-## Part 2: Days 5-8
+## Part 2: Goodbye Georgia, Hello North Carolina! (Days 5-8)
 
-Originally posted on June 9th, 2014 8:23am
+*Originally posted on June 9th, 2014 8:23am*
 
-Day 5: Dicks Creek Gap/Top of Georgia hostel –> Muskrat Creek Shelter (11.8 miles)
-Day 6: Muskrat Creek Shelter –> Long Branch Shelter (21.1 miles)
-Day 7: Long Branch Shelter –> Winding Stair Gap/Franklin –> Wayah Shelter (18.3 miles)
-Day 8: Wayah Shelter –> Nantahala Outdoor Center (16.3 miles)
-
-Miles from Springer: 137.1
+- Day 5: Dicks Creek Gap/Top of Georgia hostel –> Muskrat Creek Shelter (11.8 miles)
+- Day 6: Muskrat Creek Shelter –> Long Branch Shelter (21.1 miles)
+- Day 7: Long Branch Shelter –> Winding Stair Gap/Franklin –> Wayah Shelter (18.3 miles)
+- Day 8: Wayah Shelter –> Nantahala Outdoor Center (16.3 miles)
+- Miles from Springer: 137.1
 
 I’ve hit some of my first big milestones since I last posted: first state line (GA/NC), first 100 miles, first thunderstorm. 
 
@@ -181,9 +168,9 @@ My tent was tested in its first rainstorm that night, and it performed great. I 
 
 We tried to sleep in the shelter, but the squeaking of mice sent me running to set my tent up outside. I wasn’t about to have little rodents sharing my sleeping bag! The boys set up their tents inside the shelter which was a funny sight. 
 
-Although I don’t have a trail name yet, I have taken to calling the boys “The Plague”, because their group seems to be dropping off the trail like flies.
+Although I don’t have a trail name yet, I have taken to calling the boys "The Plague", because their group seems to be dropping off the trail like flies.
 
-Trail names are kind of a rite of passage out here. Most people’s names are given to them by other hikers. Many names are based on food, which is a big topic of conversation out here. I’ve heard of a “Ramen Shamen” and a “Maple Syrup”. But the names aren’t always what you want them to be, particularly if you do something memorable. For example, I heard that one guy who consistently passed a lot of gas at the shelters is now referred to as “Chevron”. I hope I don’t get stuck with one like that!
+Trail names are kind of a rite of passage out here. Most people’s names are given to them by other hikers. Many names are based on food, which is a big topic of conversation out here. I’ve heard of a "Ramen Shamen" and a "Maple Syrup". But the names aren’t always what you want them to be, particularly if you do something memorable. For example, I heard that one guy who consistently passed a lot of gas at the shelters is now referred to as "Chevron". I hope I don’t get stuck with one like that!
 
 The next morning we pushed on 8 miles to Winding Stair gap, where we hitched a ride into Franklin to resupply. It was my first time hitchhiking, and I have to say, it was easier than I thought it would be! No more than 5 cars passed us by before Eric and I were picked up by a man with the thickest Southern accent I’ve ever heard. He told us he picked up hikers all the time and had always dreamed of hiking the AT himself. He dropped us off at WalMart, where we waited about 20 minutes for Craig and Alex. They didn’t have as good of luck getting a ride. I think it might help that I’m a girl…
 
@@ -207,20 +194,34 @@ But I made it and took one of the best showers of my life. I took a nap and then
 
 Today, I ate breakfast at the restaurant, bought some more supplies, and watched the many tourists head out on whitewater rafting trips the NOC is known for. I’m feeling well rested and ready for the apparently equally brutal climb out of the NOC. From here, the next stop is Fontana Dam and then on to the Smokies.
 
+## Photos: Part 2
+
+*Originally posted on June 9th, 2014 6:58am*
+
+```{r, out.width = "100%", echo = FALSE}
+knitr::include_graphics("images/88273929056_0.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_1.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_2.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_3.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_4.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_5.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_6.jpg", error = FALSE)
+knitr::include_graphics("images/88273929056_7.jpg", error = FALSE)
+```
+
 ## Part 3: Day 9 and 10
 
-Originally posted on June 10th, 2014 1:49pm
+*Originally posted on June 10th, 2014 1:49pm*
 
-Day 9: NOC –> Brown Gap Shelter (16 miles)
-Day 10: Brown Gap Shelter –> Fontana Village Resort –> Fontana Dam Shelter (12.7 miles)
-
-Miles from Springer: 165.8
+- Day 9: NOC –> Brown Gap Shelter (16 miles)
+- Day 10: Brown Gap Shelter –> Fontana Village Resort –> Fontana Dam Shelter (12.7 miles)
+- Miles from Springer: 165.8
 
 Just a quick post because it’s hardly been anytime since my last one! 
 
 Nothing too exciting has happened. The hike out of the NOC wasn’t nearly as hard as I’d been told, but maybe that’s just because I’d take an uphill over a downhill any day. I had planned on stopping at a shelter around 7 miles from the NOC, but I was feeling good after a great night sleep in the hostel, so I just ate lunch there instead. While there I chatted with a father and daughter pair who we’re hiking southbound from Fontana Dam to the NOC. They gave me good info about the upcoming section of trail. Just as I was eating, an older man who goes by Mr. Wonderful hiked down to the shelter.
 
-I had originally met Mr. Wonderful, who looks like a hiking Santa Claus, while resupplying at the NOC. When I told him I didn’t have a trail name yet, he took it upon himself to come up with one. When I passed him on my way out of the NOC, he stopped me and told me my new name. He said it should be Sassafrass Tea because I have some red in my hair and I “look like a sassy girl”. I’m not sure if I’ll keep that one, but it’s funny that the day after writing about trail names I got a suggestion for one.
+I had originally met Mr. Wonderful, who looks like a hiking Santa Claus, while resupplying at the NOC. When I told him I didn’t have a trail name yet, he took it upon himself to come up with one. When I passed him on my way out of the NOC, he stopped me and told me my new name. He said it should be Sassafrass Tea because I have some red in my hair and I "look like a sassy girl". I’m not sure if I’ll keep that one, but it’s funny that the day after writing about trail names I got a suggestion for one.
 
 After lunch, I pressed on. It was only around 2pm, so I was feeling good about the 9 miles I had left before the next shelter. It’s not critical that I stay at a shelter, but after that thunderstorm a couple of days ago, I didn’t want to be caught without a place to hide. And the clouds overhead were dark and threatening and wind was whipping through the trees like it seems to do the day before a nighttime storm.
 
@@ -232,13 +233,13 @@ It was good that I had fuel because the last 2 miles of the day climbed ridiculo
 
 But I made it and was surprised when I was greeted by a group of six people at the shelter. That was the most people I’ve seen at one shelter. They were all a bit older, mostly 50+. 
 
-There was a pair of brothers there, one of which was a joker who tried to convince me that “Guano” would be a good trail name because it was “Cherokee for robin”. The group had a laugh as I tried to diplomatically side step getting saddled with birdshit as a trail name. Coyote, the joker’s trail name, told me he played that prank on an old girlfriend of his and that she didn’t know what it meant. She went 110 miles proudly telling people her new trail name. She probably would have kept it forever if it hadn’t have been for her mom breaking the bad news about its real meaning.
+There was a pair of brothers there, one of which was a joker who tried to convince me that "Guano" would be a good trail name because it was "Cherokee for robin". The group had a laugh as I tried to diplomatically side step getting saddled with birdshit as a trail name. Coyote, the joker’s trail name, told me he played that prank on an old girlfriend of his and that she didn’t know what it meant. She went 110 miles proudly telling people her new trail name. She probably would have kept it forever if it hadn’t have been for her mom breaking the bad news about its real meaning.
 
-I also met a couple and two ex-military people who didn’t know each other before the trail but had been hiking together since Winding Stair. The ex-military hiking pair consisted of Hope and her dog Nicky (so cute) and Monk, who is trying to make it all the way to Maine. Monk is a very interesting guy. He talked to the brothers for most of the night about his work with the Navy and the state of the world today. He also told me he’s going to write a book about the AT and that I should too. He thinks it’s a wise financial choice, because the movie based on Bill Bryson’s “A Walk in the Woods” is being filmed right now, so there’s going to be a serious increase in demand for AT related materials after it comes out. I don’t know about writing a book myself, but I’m happy he’s going for it!
+I also met a couple and two ex-military people who didn’t know each other before the trail but had been hiking together since Winding Stair. The ex-military hiking pair consisted of Hope and her dog Nicky (so cute) and Monk, who is trying to make it all the way to Maine. Monk is a very interesting guy. He talked to the brothers for most of the night about his work with the Navy and the state of the world today. He also told me he’s going to write a book about the AT and that I should too. He thinks it’s a wise financial choice, because the movie based on Bill Bryson’s "A Walk in the Woods" is being filmed right now, so there’s going to be a serious increase in demand for AT related materials after it comes out. I don’t know about writing a book myself, but I’m happy he’s going for it!
 
 I set up in the shelter, but didn’t sleep too well at first. I was happy I did though, because around 3:20am, the wind and rain started pounding the shelter so hard that it sounded, as Hope put it the next morning, like someone was throwing buckets of water at us, buckets included. Then, the thunder picked up and there were some lightning flashes. It was nothing like a couple days ago, but it was very loud in the metal roofed shelter. At one point, it devolved into just a dull roar, like a jet was parked outside. But thankfully it blew itself out pretty quickly and the storm died down around 4am.
 
-This morning I woke up early, mostly because everyone else was already up. I was out hiking by 7:30am. I planned to make it to Fontana Dam Shelter, which is known as the “Fontana Hilton” because it has hot showers. Oh boy.
+This morning I woke up early, mostly because everyone else was already up. I was out hiking by 7:30am. I planned to make it to Fontana Dam Shelter, which is known as the "Fontana Hilton" because it has hot showers. Oh boy.
 
 I find that when I’m planning on reaching something exciting like that at the end of the day I get completely fixated on it. I can’t just relax and let the miles come to me. Instead, I’m constantly thinking about how awesome it will be when I get where I’m going. And let me tell you, that makes the day move by like molasses. Every mile took forever. It didn’t help that the last section was a long couple of miles of downhill. My knees weren’t having it. I won’t write what I was saying, but let’s just say it wasn’t pretty. A lot of cursing and tirades against the trail’s family and ancestors and children…you get the picture.
 
@@ -250,39 +251,38 @@ At the Marina I washed up and got a shuttle into the Fontana Village Resort. I�
 
 And basically all I’ve been doing since I got in around 1pm is hanging out, doing laundry, and eating. A much needed relaxation half-day after putting a lot of strain on my body. Tomorrow I make the huge climb into the Smokies. I need to be well rested for that. Maybe I’ll finally see a bear on this trip. Apparently the Smokies are known for their huge black bear population. We’ll see!
 
-## Photos Part 3: Day 9 and 10
+## Photos: Part 3 Day 9 and 10
 
-Originally posted on June 10th, 2014 1:53pm
+*Originally posted on June 10th, 2014 1:53pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/88405950361_0.jpg")
-knitr::include_graphics("images/88405950361_1.jpg")
-knitr::include_graphics("images/88405950361_2.jpg")
-knitr::include_graphics("images/88405950361_3.jpg")
-knitr::include_graphics("images/88405950361_4.jpg")
-knitr::include_graphics("images/88405950361_5.jpg")
-knitr::include_graphics("images/88405950361_6.png")
-knitr::include_graphics("images/88405950361_7.jpg")
-knitr::include_graphics("images/88405950361_8.jpg")
-knitr::include_graphics("images/88405950361_9.jpg")
+knitr::include_graphics("images/88405950361_0.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_1.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_2.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_3.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_4.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_5.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_6.png", error = FALSE)
+knitr::include_graphics("images/88405950361_7.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_8.jpg", error = FALSE)
+knitr::include_graphics("images/88405950361_9.jpg", error = FALSE)
 ```
 
 ## Part 4: The Smokies to Hot Springs (Days 11-16)
 
-Originally posted on June 16th, 2014 2:10pm
+*Originally posted on June 16th, 2014 2:10pm*
 
-Day 11: Fontana Dam Shelter –> Russell Field Shelter (13.8 miles)
-Day 12: Russell Field Shelter –> Mt. Collins Shelter (22.7 miles)
-Day 13: Mt. Collins Shelter –> Tri-Corner Knob Shelter (20.1 miles)
-Day 14: Tri-Corner Knob Shelter –> Standing Bear Hostel, with side trip to Mt. Cammerer Fire Tower (18.1 miles on AT, 1.2 mile side trip)
-Day 15: Standing Bear Hostel –> Walnut Mountain Shelter (20.3 miles)
-Day 16: Walnut Mtn Shelter –> Hot Springs, NC (13.1 miles)
-
-Miles from Springer: 273.9
+- Day 11: Fontana Dam Shelter –> Russell Field Shelter (13.8 miles)
+- Day 12: Russell Field Shelter –> Mt. Collins Shelter (22.7 miles)
+- Day 13: Mt. Collins Shelter –> Tri-Corner Knob Shelter (20.1 miles)
+- Day 14: Tri-Corner Knob Shelter –> Standing Bear Hostel, with side trip to Mt. Cammerer Fire Tower (18.1 miles on AT, 1.2 mile side trip)
+- Day 15: Standing Bear Hostel –> Walnut Mountain Shelter (20.3 miles)
+- Day 16: Walnut Mtn Shelter –> Hot Springs, NC (13.1 miles)
+- Miles from Springer: 273.9
 
 So I was going to enter the legendary Great Smoky Mountains. I had heard they were amazingly beautiful and eerie, but most of all, crowded. 
 
-According to my guide book, the Smokies are the most visited of the traditional national parks. It is also home to 400-600 black bears. The combination of heavy visitation, much of it by people who don’t follow the “leave no trace” methodology of backpacking, and a large population of bears leads to unfavorable human-bear interactions. Irresponsible people feed the bears, who then get habituated to people and start to associate tents, packs and people with food. This can result in a bear who is dangerous because it begins to view humans as a food source.
+According to my guide book, the Smokies are the most visited of the traditional national parks. It is also home to 400-600 black bears. The combination of heavy visitation, much of it by people who don’t follow the "leave no trace" methodology of backpacking, and a large population of bears leads to unfavorable human-bear interactions. Irresponsible people feed the bears, who then get habituated to people and start to associate tents, packs and people with food. This can result in a bear who is dangerous because it begins to view humans as a food source.
 
 With all of this on my mind, I went to sleep in the Fontana Dam Shelter. Only to be awoken at 1:30am by an elderly British woman coming into the shelter saying that a bear had just torn apart her campsite. 
 
@@ -316,43 +316,43 @@ The day was one huge continuous climb towards the the highest point on the AT, C
 
 But, it was the first day that I truly felt like a thru-hiker. You can drive almost to the top of Clingman’s Dome and walk 0.2 miles from the parking lot to the observation tower. As I was coming out of the woods, dripping and stinky in my hiking clothes, I came across an Indian man and his four children. He was wearing khakis and a polo. He was holding a large camera.
 
-“Did you walk here?” He asked in heavily accented English, looking at my trekking poles and backpack.
+"Did you walk here?" He asked in heavily accented English, looking at my trekking poles and backpack.
 
-I smiled and nodded, “Yeah! From about 18 miles back that way,” I pointed south.
+I smiled and nodded, "Yeah! From about 18 miles back that way," I pointed south.
 
-His jaw dropped. “Just today? Did you start today?”
+His jaw dropped. "Just today? Did you start today?"
 
-“Nah, I actually started in Georgia.”
+"Nah, I actually started in Georgia."
 
-“Georgia?!” His eyes grew huge, and he slapped a hand to his forehead. “I live in Georgia!”
+"Georgia?!" His eyes grew huge, and he slapped a hand to his forehead. "I live in Georgia!"
 
-He then started shouting for his family. Relatives seemed to appear out of nowhere, all coming to see the girl who was a “walker.” They were all dressed nicely; some of the women wore traditional Indian clothing and bindis on their foreheads.
+He then started shouting for his family. Relatives seemed to appear out of nowhere, all coming to see the girl who was a "walker." They were all dressed nicely; some of the women wore traditional Indian clothing and bindis on their foreheads.
 
-He had all of his kids and some of the relatives crowd around me. “I have to take your picture! Stand by her.” And then, almost as an afterthought, “Can I take your picture?”
+He had all of his kids and some of the relatives crowd around me. "I have to take your picture! Stand by her." And then, almost as an afterthought, "Can I take your picture?"
 
-“Sure, sure,” I nodded, all the while feeling even dirtier than usual as I caught whiffs of the laundry-fresh scent wafting from their clothes.
+"Sure, sure," I nodded, all the while feeling even dirtier than usual as I caught whiffs of the laundry-fresh scent wafting from their clothes.
 
 He snapped a few pictures, then asked me how far I was going.
 
-“As far north as I can get, hopefully Maine.”
+"As far north as I can get, hopefully Maine."
 
-“To Tennessee?!”
+"To Tennessee?!"
 
-“Actually, to Maine.”
+"Actually, to Maine."
 
-“Past Tennessee?!” His eyes widened.
+"Past Tennessee?!" His eyes widened.
 
-“Yeah, past Tennessee to Maine.”
+"Yeah, past Tennessee to Maine."
 
-“Past Tennessee?!” He was stuck on that, as if he couldn’t imagine anyone ever walking further than Tennessee.
+"Past Tennessee?!" He was stuck on that, as if he couldn’t imagine anyone ever walking further than Tennessee.
 
-I laughed and nodded. I told him I had to keep going, but as I walked away he told me, “I’m proud to have taken your picture.” It was a surreal and incredibly nice moment for me. He definitely made me feel like I was doing something special.
+I laughed and nodded. I told him I had to keep going, but as I walked away he told me, "I’m proud to have taken your picture." It was a surreal and incredibly nice moment for me. He definitely made me feel like I was doing something special.
 
 After that, even the ugly concrete observation tower on top of Clingman’s, the hordes of people on it, and the complete and utter lack of views there couldn’t put a damper on my spirits. I floated the last 4 miles into Mt. Collins shelter.
 
 Just as I arrived at the shelter, another storm hit. It started pouring. I thought that Monk would already be there, because I hadn’t seen him all day and hadn’t thought that I’d passed him. But he wasn’t there. Uh oh, I thought. He’s still out there. The rain was beating down on the tin roof of the shelter. 
 
-There were four guys at the shelter. A father and his young son, an older man, and a guy about my age. As soon as I walked up, they asked how far I’d come. When I told them, the guy my age said I must be like Sonic the Hedgehog to walk so far and come into camp by 5pm. He pointed at my dirty calves and said, “You can tell how fast she walks by the mud splatters on the backs of her legs!” I had gotten my trail name.
+There were four guys at the shelter. A father and his young son, an older man, and a guy about my age. As soon as I walked up, they asked how far I’d come. When I told them, the guy my age said I must be like Sonic the Hedgehog to walk so far and come into camp by 5pm. He pointed at my dirty calves and said, "You can tell how fast she walks by the mud splatters on the backs of her legs!" I had gotten my trail name.
 
 We had a great time hanging out, talking about everything from moonshine to salamander regeneration. 
 
@@ -362,7 +362,7 @@ However, the whole time I was getting concerned about Monk. The rain continued, 
 
 We parted ways and I headed to Tri-Corner. It was a relatively easy section, mostly gently rolling. I was walking along a knife-edge ridge most of the day. The path was only 20 feet wide at some points, sheer drop offs on either side. I also finally saw the shimmer of blue sky. 
 
-But alas, because it was the Smokies, it couldn’t last. Right around 2pm, I heard thunder start to threaten. Then, at 2:30pm, it paid off on its threat. It started to pour. The trail turned into a water funnel, running better than most of the “streams” in Georgia. I donned my poncho and got a move on. I wanted off that ridge. I had a single layer of trees on either side, so I wasn’t completely exposed, but I didn’t like the thought of there being lightning while I was holding two metal rods in my hands.
+But alas, because it was the Smokies, it couldn’t last. Right around 2pm, I heard thunder start to threaten. Then, at 2:30pm, it paid off on its threat. It started to pour. The trail turned into a water funnel, running better than most of the "streams" in Georgia. I donned my poncho and got a move on. I wanted off that ridge. I had a single layer of trees on either side, so I wasn’t completely exposed, but I didn’t like the thought of there being lightning while I was holding two metal rods in my hands.
 
 I booked it to the shelter. I was wet, but dried off soon enough. I spent the night in the shelter with a nice group of people on an REI adventure trip.
 
@@ -374,7 +374,7 @@ The next morning I started the section of trail that follows along the North Car
 
 A huge grassy knoll with sweeping 360 degree views of mountains that seemed to go on for forever into the distance. The sun beat down pleasantly on my back. I was out of the green tunnel. I walked around with a huge smile on my face, my head on a swivel as I tried to see everything all at once. It was the first place that I’ve felt like I need to go back to.
 
-I moved on somewhat reluctantly. I passed some other thru-hikers and stopped for lunch at Roaring Fork Shelter. I decided to press on, after talking it through with an older man there. As I left, he told me I looked about 14, but that I also looked like I had my “shit figured out.” That made me laugh.
+I moved on somewhat reluctantly. I passed some other thru-hikers and stopped for lunch at Roaring Fork Shelter. I decided to press on, after talking it through with an older man there. As I left, he told me I looked about 14, but that I also looked like I had my "shit figured out." That made me laugh.
 
 I climbed an easy 5 miles up to Walnut Mountain Shelter where I met a college aged couple. I felt like I could’ve kept hiking, but I was having too much fun talking to people my own age to leave. As we ate dinner, another pair of recent college graduates showed up at the shelter. We all made plans to meet in Hot Springs the next day to eat real food and drink some beer.
 
@@ -384,71 +384,71 @@ The trail runs right through Hot Springs, so once I was in town, I stopped for l
 
 Now I’m running errands, resupplying on food and doing laundry. A nice half day before the next section of trail. Hopefully it stays smooth and rolling like this last section. I think that the bit between Standing Bear and Hot Springs has been my favorite section so far.
 
-## Photos Part 4: The Smokies
+## Photos: Part 4 The Smokies
 
-Originally posted on June 16th, 2014 2:23pm
+*Originally posted on June 16th, 2014 2:23pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/88991992436_0.jpg")
-knitr::include_graphics("images/88991992436_1.jpg")
-knitr::include_graphics("images/88991992436_2.jpg")
-knitr::include_graphics("images/88991992436_3.jpg")
-knitr::include_graphics("images/88991992436_4.jpg")
-knitr::include_graphics("images/88991992436_5.jpg")
-knitr::include_graphics("images/88991992436_6.jpg")
-knitr::include_graphics("images/88991992436_7.jpg")
-knitr::include_graphics("images/88991992436_8.jpg")
-knitr::include_graphics("images/88991992436_9.jpg")
+knitr::include_graphics("images/88991992436_0.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_1.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_2.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_3.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_4.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_5.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_6.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_7.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_8.jpg", error = FALSE)
+knitr::include_graphics("images/88991992436_9.jpg", error = FALSE)
 ```
 
-## Photos Part 4: The Smokies
+## Photos: Part 4 The Smokies Cont.
 
-Originally posted on June 17th, 2014 10:17am
+*Originally posted on June 17th, 2014 10:17am*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/89071922116_0.jpg")
-knitr::include_graphics("images/89071922116_1.jpg")
-knitr::include_graphics("images/89071922116_2.jpg")
-knitr::include_graphics("images/89071922116_3.jpg")
-knitr::include_graphics("images/89071922116_4.jpg")
-knitr::include_graphics("images/89071922116_5.jpg")
-knitr::include_graphics("images/89071922116_6.jpg")
-knitr::include_graphics("images/89071922116_7.jpg")
-knitr::include_graphics("images/89071922116_8.jpg")
-knitr::include_graphics("images/89071922116_9.jpg")
+knitr::include_graphics("images/89071922116_0.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_1.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_2.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_3.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_4.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_5.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_6.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_7.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_8.jpg", error = FALSE)
+knitr::include_graphics("images/89071922116_9.jpg", error = FALSE)
 ```
 
-## Photos Part 4: Standing Bear to Hot Springs, NC
+## Photos: Part 4 Standing Bear to Hot Springs, NC
 
-Originally posted on June 17th, 2014 10:17am
+*Originally posted on June 17th, 2014 10:17am*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/89071971541_0.jpg")
-knitr::include_graphics("images/89071971541_1.jpg")
-knitr::include_graphics("images/89071971541_2.jpg")
-knitr::include_graphics("images/89071971541_3.jpg")
-knitr::include_graphics("images/89071971541_4.jpg")
-knitr::include_graphics("images/89071971541_5.jpg")
-knitr::include_graphics("images/89071971541_6.jpg")
-knitr::include_graphics("images/89071971541_7.jpg")
-knitr::include_graphics("images/89071971541_8.jpg")
-knitr::include_graphics("images/89071971541_9.jpg")
+knitr::include_graphics("images/89071971541_0.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_1.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_2.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_3.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_4.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_5.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_6.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_7.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_8.jpg", error = FALSE)
+knitr::include_graphics("images/89071971541_9.jpg", error = FALSE)
 ```
 
 ## Part 5: Hot Springs, NC to Damascus, VA
 
-Originally posted on June 26th, 2014 1:34pm
+*Originally posted on June 26th, 2014 1:34pm*
 
-Day 17: Hot Springs –> Little Laurel Shelter (19.6)
-Day 18: Little Laurel Shelter –> Hogback Ridge Shelter (20.2)
-Day 19: Hogback Ridge Shelter –> Erwin, TN/Uncle Johnny’s Hostel (27)
-Day 20: Erwin, TN –> Deep Gap (12.1)
-Day 21: Deep Gap –> Greasy Creek Gap/Greasy Creek Friendly (12.1)
-Day 22: Greasy Creek Gap –> Overmountain Shelter (16.9)
-Day 23: Overmountain Shelter –> Moreland Gap Shelter (27.6)
-Day 24: Moreland Gap Shelter –> Wilbur Dam Rd –> Black Bear Resort (19.1)
-Day 25: Black Bear Resort –> Wilbur Dam Rd –> Abingdon Gap Shelter (27.4)
-Day 26: Abingdon Gap Shelter –> Damascus –> ? (10+?)
+- Day 17: Hot Springs –> Little Laurel Shelter (19.6)
+- Day 18: Little Laurel Shelter –> Hogback Ridge Shelter (20.2)
+- Day 19: Hogback Ridge Shelter –> Erwin, TN/Uncle Johnny’s Hostel (27)
+- Day 20: Erwin, TN –> Deep Gap (12.1)
+- Day 21: Deep Gap –> Greasy Creek Gap/Greasy Creek Friendly (12.1)
+- Day 22: Greasy Creek Gap –> Overmountain Shelter (16.9)
+- Day 23: Overmountain Shelter –> Moreland Gap Shelter (27.6)
+- Day 24: Moreland Gap Shelter –> Wilbur Dam Rd –> Black Bear Resort (19.1)
+- Day 25: Black Bear Resort –> Wilbur Dam Rd –> Abingdon Gap Shelter (27.4)
+- Day 26: Abingdon Gap Shelter –> Damascus –> ? (10+?)
 
 So, it’s been a little bit since I last wrote and a lot has happened. The trail and Mother Nature like to prove me wrong whenever I start thinking I’ve got this thing figured out and that it might be getting boring. Let me tell you, as soon as that thought crosses your mind, things get real interesting. Without further ado, here’s my journey from Hot Springs, NC to Damascus, VA.
 
@@ -462,7 +462,7 @@ When I got to the Little Laurel Shelter, I was excited to see that I’d caught 
 
 We said our goodbyes the next morning and I headed out without much plan for where I would stay. It was another pretty hot day and I spent most of the day drenched in sweat. I stopped for lunch at Flint Mtn Shelter, where I ate with another thru-hiker named Bach (for the composer he plays most often on the guitar he carries). 
 
-I was just about to leave the shelter when another couple walked up. They noticed that my hat says “Surf Cup Soccer a Tournament”, and so we got to talking soccer. By random chance, I mentioned that I’d played at Whitman. The woman, Gizelle, then said that might mean I knew Jesse Mirman. My jaw dropped. We had been housemates for the last year! What a crazy small world we live in. We talked for a while about how they had gone to the same schools growing up and how she was friends with his brother. It was an unexpected and fun conversation.
+I was just about to leave the shelter when another couple walked up. They noticed that my hat says "Surf Cup Soccer a Tournament", and so we got to talking soccer. By random chance, I mentioned that I’d played at Whitman. The woman, Gizelle, then said that might mean I knew Jesse Mirman. My jaw dropped. We had been housemates for the last year! What a crazy small world we live in. We talked for a while about how they had gone to the same schools growing up and how she was friends with his brother. It was an unexpected and fun conversation.
 
 We went our separate ways, and I pressed on towards the next shelter. It was a longer and harder walk than I was expecting based on the elevation profiles in my book. I got to the shelter feeling worn out and beat. I met an older guy named 50+ (for his age and pack weight) there. Bach was also staying there. We hung out and chatted trail, but I went to sleep early. I fell asleep to the talented strumming of Bach’s guitar.
 
@@ -490,10 +490,10 @@ The trail became slick. My feet slipped backwards on every step uphill. On the d
 
 When I got to the Cherry Gap Shelter, I noticed some graffiti scrawled on it that said:
 
-“To be a thru-hiker, you must:
+"To be a thru-hiker, you must:  
 1. Summit katahdin
 2. Summit springer
-3. Stay at the Greasy Creek Friendly!!!”
+3. Stay at the Greasy Creek Friendly!!!"
 
 That was the third endorsement of the place that I’d heard. I made the decision to walk the 0.6 miles off the trail to go to it. I was not having a good day and so there was no point in hiking further. I followed arrows made out of sticks and rocks down an old jeep track to the house. Painted on the door was a yellow smilie face. I was already starting to feel like I’d made the right decision.
 
@@ -549,139 +549,162 @@ Today, we made it into Virginia and Damascus. First big landmark! Great feeling.
 
 Until next time!
 
-## Photos Part 5
+## Photos: Part 5
 
-Originally posted on June 26th, 2014 1:39pm
+*Originally posted on June 26th, 2014 1:39pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/89992031101_0.jpg")
-knitr::include_graphics("images/89992031101_1.jpg")
-knitr::include_graphics("images/89992031101_2.jpg")
-knitr::include_graphics("images/89992031101_3.jpg")
-knitr::include_graphics("images/89992031101_4.jpg")
-knitr::include_graphics("images/89992031101_5.jpg")
-knitr::include_graphics("images/89992031101_6.jpg")
-knitr::include_graphics("images/89992031101_7.jpg")
-knitr::include_graphics("images/89992031101_8.jpg")
-knitr::include_graphics("images/89992031101_9.jpg")
+knitr::include_graphics("images/89992031101_0.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_1.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_2.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_3.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_4.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_5.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_6.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_7.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_8.jpg", error = FALSE)
+knitr::include_graphics("images/89992031101_9.jpg", error = FALSE)
 ```
 
-## Photos posted June 26th, 2014 2:17pm
+## Photos: Part 5 Cont.
 
-Originally posted on June 26th, 2014 2:17pm
+*Originally posted on June 26th, 2014 2:17pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/89995343196_0.jpg")
-knitr::include_graphics("images/89995343196_1.jpg")
-knitr::include_graphics("images/89995343196_2.jpg")
-knitr::include_graphics("images/89995343196_3.jpg")
-knitr::include_graphics("images/89995343196_4.jpg")
-knitr::include_graphics("images/89995343196_5.jpg")
-knitr::include_graphics("images/89995343196_6.jpg")
+knitr::include_graphics("images/89995343196_0.jpg", error = FALSE)
+knitr::include_graphics("images/89995343196_1.jpg", error = FALSE)
+knitr::include_graphics("images/89995343196_2.jpg", error = FALSE)
+knitr::include_graphics("images/89995343196_3.jpg", error = FALSE)
+knitr::include_graphics("images/89995343196_4.jpg", error = FALSE)
+knitr::include_graphics("images/89995343196_5.jpg", error = FALSE)
+knitr::include_graphics("images/89995343196_6.jpg", error = FALSE)
 ```
 
 ## Part 6: Damascus, VA to Waynesboro, VA
 
-Originally posted on July 15th, 2014 5:21pm
+*Originally posted on July 15th, 2014 5:21pm*
 
-Day 26 (part 2): Damascus –> Saunders Shelter (9.4 miles)
-Day 27: Saunders Shelter –> Old Orchard Shelter (29.6 miles)
-Day 28: Old Orchard Shelter –> Va. 16, Mt. Rogers NRA Headquarters –>  Marion, VA/Travel Inn (24.8 miles)
-Day 29: Marion, VA –> Va. 683/Relax Inn (11.5 miles)
-Day 30: Va. 683 –> Chestnut Knob Shelter (23 miles)
-Day 31: Chestnut Knob Shelter –> Helveys Mill Shelter (24 miles)
-Day 32: Helveys Mill Shelter –> Woodshole Hostel (31.2 miles + 0.6 mile side trip + 0.5 miles to hostel)
-Day 33: Woodshole Hostel –> Pearisburg, VA/Holiday Motor Lodge (10.4 miles)
-Day 34: Pearisburg, VA –> Bailey Gap Shelter (23.2 miles)
-Day 35: Bailey Gap Shelter –> Niday Shelter (27 miles)
-Day 36: Niday Shelter –> Va. 311 –> Julie –> Sam and Sara’s (22.7 miles)
-Day 37: Sam and Sara’s –> Va. 311 –> Daleville, VA –> Hiker Mom’s (19.8 miles)
-Day 38: Hiker Mom’s –> Daleville, VA –> Wilson Creek Shelter (11.2 miles)
-Day 39: Wilson Creek Shelter –> Bryant Ridge Shelter (20.8 miles)
-Day 40: Bryant Ridge Shelter –> Matts Creek Shelter (22.6 miles + 2.2 mile side trip)
-Day 41: Matts Creek Shelter –> US 501 –> Glasgow, VA (2.2 miles)
-Day 42: Glasgow, VA –> US 501 –> Pedlar River Bridge (15.1 miles)
-Day 43: Pedlar River Bridge –> 3 Springs Hostel (where I got to watch the World Cup Final, awesome!) –> Seeley-Woodworth Shelter (20.7 miles)
-Day 44: Seeley-Woodworth Shelter –> Maupin Field Shelter (20.4 miles)
-Day 45: Maupin Field Shelter –> Rockfish Gap –> Waynesboro, VA (20.8 miles)
-Miles from Springer: 857.8
-Just before I got out of the van, the man who was dropping me off at the approach trail turned to me and said,
-“You won’t believe me now, but at some point, you’re going to get bored of hiking.”
+- Day 26 (part 2): Damascus –> Saunders Shelter (9.4 miles)
+- Day 27: Saunders Shelter –> Old Orchard Shelter (29.6 miles)
+- Day 28: Old Orchard Shelter –> Va. 16, Mt. Rogers NRA Headquarters –>  Marion, VA/Travel Inn (24.8 miles)
+- Day 29: Marion, VA –> Va. 683/Relax Inn (11.5 miles)
+- Day 30: Va. 683 –> Chestnut Knob Shelter (23 miles)
+- Day 31: Chestnut Knob Shelter –> Helveys Mill Shelter (24 miles)
+- Day 32: Helveys Mill Shelter –> Woodshole Hostel (31.2 miles + 0.6 mile side trip + 0.5 miles to hostel)
+- Day 33: Woodshole Hostel –> Pearisburg, VA/Holiday Motor Lodge (10.4 miles)
+- Day 34: Pearisburg, VA –> Bailey Gap Shelter (23.2 miles)
+- Day 35: Bailey Gap Shelter –> Niday Shelter (27 miles)
+- Day 36: Niday Shelter –> Va. 311 –> Julie –> Sam and Sara’s (22.7 miles)
+- Day 37: Sam and Sara’s –> Va. 311 –> Daleville, VA –> Hiker Mom’s (19.8 miles)
+- Day 38: Hiker Mom’s –> Daleville, VA –> Wilson Creek Shelter (11.2 miles)
+- Day 39: Wilson Creek Shelter –> Bryant Ridge Shelter (20.8 miles)
+- Day 40: Bryant Ridge Shelter –> Matts Creek Shelter (22.6 miles + 2.2 mile side trip)
+- Day 41: Matts Creek Shelter –> US 501 –> Glasgow, VA (2.2 miles)
+- Day 42: Glasgow, VA –> US 501 –> Pedlar River Bridge (15.1 miles)
+- Day 43: Pedlar River Bridge –> 3 Springs Hostel (where I got to watch the World Cup Final, awesome!) –> Seeley-Woodworth Shelter (20.7 miles)
+- Day 44: Seeley-Woodworth Shelter –> Maupin Field Shelter (20.4 miles)
+- Day 45: Maupin Field Shelter –> Rockfish Gap –> Waynesboro, VA (20.8 miles)
+- Miles from Springer: 857.8
+
+Just before I got out of the van, the man who was dropping me off at the approach trail turned to me and said, "You won’t believe me now, but at some point, you’re going to get bored of hiking."
+
 He was right on both accounts.
+
 In that moment, full of adrenaline and fear and excitement for what was to come, I couldn’t imagine not loving every step I took…Or at least the fact that I was getting to take those steps. I’ve always known that sometimes hiking is hard and painful, but in the end, the satisfaction that I would get from successfully doing that hard and painful thing always made it worth it. It was preposterous that I could get bored of hiking. Not when there were mountains to climb, bears to meet, and streams to jump!
+
 But now, I see what he meant.
-See, it’s not that I want to or that I have even considered getting off the trail. That’s not it at all. I think it’s just what happens when you do anything day after day after day: at some point, the extraordinary becomes mundane. What was foreign becomes familiar. I think I’ve made the transition from this being a “trip” to this just being the way I’m living right now. It’s gotten to the point where I can hardly remember a time when I wasn’t doing this.
+
+See, it’s not that I want to or that I have even considered getting off the trail. That’s not it at all. I think it’s just what happens when you do anything day after day after day: at some point, the extraordinary becomes mundane. What was foreign becomes familiar. I think I’ve made the transition from this being a "trip" to this just being the way I’m living right now. It’s gotten to the point where I can hardly remember a time when I wasn’t doing this.
+
 I wake up. I walk until dark. I sleep. That is my entire day. Every day.
+
 Yes, of course, more happens than that. And yes, of course, there’s some variation in the events of the day, like the terrain or the scenery. But when you boil it down to its essence, that’s all I’m doing.
+
 Wake up. Walk. Sleep. Rinse and repeat.
+
 I used to judge people who listened to music or podcasts while hiking. I thought it took them away from the experience. What good was being away from civilization if you brought technology right back into it? What good was being in nature if you wouldn’t even listen to the birds singing? You might as well be working out in a gym.
+
 But now, I understand.
+
 Now, I use my music as a tool. It gives me an escape from the relentless sameness of it all—another dusty ridge to traverse, another rat snake to avoid, another pile of rocks to scramble over. It gives me solace when I pant my way up another boulder-strewn mountain, only to reach yet another viewless, tree-covered summit. It gives me peace when the same thoughts bounce endlessly against the same corners of my brain. It brings new life to an overlook that gives me yet another view of perfectly sculpted green hills rolling on forever into the northeastern distance.
+
 However, I wouldn’t still be doing this thing if it always felt like that. There have been moments of wonder and joy and awe. When I sat on the rock outcropping at McAffee Knob, I felt like I was dangling my feet over the end of the world. When I dove into the James River and swam the day away, I was brought back to the lazy, dock-jumping summers of my childhood. When I almost stepped on a rattlesnake and heard him threateningly shake his tail, I felt a bone-deep, visceral fear course through me.
+
 And the people I’ve met…well, I think that’s the true reason everyone loves this trail.
+
 I met a mother and her twin four-year-olds who had also been hiking since Springer Mountain. When I first heard about Mother Bear, I thought maybe she was forcing Strong Man (the little boy) and Little Butt (his sister) to hike, but then I heard those kids laughing and shouting and playing for an entire mile before I caught them. They were having the time of their lives. And they were good hikers too! Mother Bear told me they averaged 10-15 miles a day. That was better than many adult thru-hikers I’ve met!
+
 I met a couple and their daughter who took me in with only an afternoon’s notice, simply because my dad’s cousin was their friend. Talk about a distant connection! Julie, the daughter, probably drove an hour out of her way to pick me up and then took me to Roanoke to stay the night with her parents, Sam and Sara. The house in Roanoke was amazing—a beautiful garden full of flowers, rooms full of interesting art, and a fully furnished basement with princess-worthy beds, a washer and dryer, a bathroom, and even a TV!
+
 Sara and Sam treated me like family from the moment I stepped through their door. Sara fed me a delicious dinner and breakfast. She made me feel doted upon. Sam and I talked about the trail’s history and his own hiking experience. Their scarily intelligent mini-Australian Shepherd, Twig, kept us all entertained with his constant antics, such as burying his bones under the couch cushions. I swear he understood every word we said to each other. The way his bright blue eyes lit up and the way he cocked his head when Sara would say certain names convinced me of this.
+
 When Sara drove me back to the trail the next morning, I was sad to leave them. But I felt lucky that I had gotten to know them and spend even that short amount of time with them.
+
 These are just a couple of the people I’ve met out here, but that’s what so magical about the trail. There are always more people to meet. It’s been amazing to meet so many different people who all have such interesting stories to tell.
+
 Just to list a few more: Hiker Mom, who also took me in on short notice, let me stay in her furnished basement at no cost and then dropped off water jugs for me along sections of trail that she knew would be dry. Birdman, who would stop to take photos at least every mile and could spend an hour chewing a single bite of food. Driftwood, who looks fifty but is actually seventy, and lives down in the Keys for the winter and then travels the world during the summer. Tom, who despite a heartattack, has run marathons, an Ironman, biked across the country, and plans to snowboard in Antarctica after thru-hiking the AT. Catchup, who could just as easily be named for the condiment and wouldn’t look out of place in a Weasley family photo, has an easy openness to him that is refreshing. Mitch, who was so smart and well-read, that I could hike for hours just listening to him talk and prompting him with the occasional question.
+
 I’ve hiked big mile days, I’ve hiked shorter days. Some days, the miles come easily and freely. Other days, every step is heavy.
+
 I don’t know if I’ve expressed it well, but basically, what I’m trying to say is that despite the fact that trail life is sometimes boring, it is still very much worth doing. There’s real value in it for me.
+
 That’s it for now, I guess. I’ll continue making my long, long way through Virginia. By the way, if anyone ever tells you that Virginia is flat, you send them to me and I’ll make them hike up Bald Knob and down the Priest and back up Three Ridges and then we’ll talk.
+
 Although she does have some nice, relatively level ridge walks, Virginia ain’t no slouch. She’s got 2,000 and 3,000 foot climbs that come out of nowhere. And she makes you do them in weather so humid that your dripping sweat never dries, with no water sources for 10+ miles, in the beating sun. So if anyone ever tries to tell you Virginia’s easy, you send them to me. I’ll set them straight.
+
 Tomorrow, I head into the Shenandoah National Park, apparently land of the bears. And hopefully soon I’ll be making my way out of Virginia, through West Virginia, Maryland and part of Pennsylvania up to that fabled half-way point. Here we go.
 
-## Photos Part 6
+## Photos: Part 6
 
-Originally posted on July 15th, 2014 5:23pm
+*Originally posted on July 15th, 2014 5:23pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/91897068646_0.jpg")
-knitr::include_graphics("images/91897068646_1.jpg")
-knitr::include_graphics("images/91897068646_2.jpg")
-knitr::include_graphics("images/91897068646_3.jpg")
-knitr::include_graphics("images/91897068646_4.jpg")
-knitr::include_graphics("images/91897068646_5.jpg")
-knitr::include_graphics("images/91897068646_6.jpg")
-knitr::include_graphics("images/91897068646_7.jpg")
-knitr::include_graphics("images/91897068646_8.jpg")
-knitr::include_graphics("images/91897068646_9.jpg")
+knitr::include_graphics("images/91897068646_0.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_1.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_2.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_3.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_4.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_5.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_6.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_7.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_8.jpg", error = FALSE)
+knitr::include_graphics("images/91897068646_9.jpg", error = FALSE)
 ```
 
-## Photos Part 6 Cont.
+## Photos: Part 6 Cont.
 
-Originally posted on July 15th, 2014 5:26pm
+*Originally posted on July 15th, 2014 5:26pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/91897238236_0.jpg")
-knitr::include_graphics("images/91897238236_1.jpg")
-knitr::include_graphics("images/91897238236_2.jpg")
-knitr::include_graphics("images/91897238236_3.jpg")
-knitr::include_graphics("images/91897238236_4.jpg")
-knitr::include_graphics("images/91897238236_5.jpg")
-knitr::include_graphics("images/91897238236_6.jpg")
-knitr::include_graphics("images/91897238236_7.jpg")
-knitr::include_graphics("images/91897238236_8.jpg")
-knitr::include_graphics("images/91897238236_9.jpg")
+knitr::include_graphics("images/91897238236_0.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_1.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_2.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_3.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_4.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_5.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_6.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_7.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_8.jpg", error = FALSE)
+knitr::include_graphics("images/91897238236_9.jpg", error = FALSE)
 ```
 
-## Photos Part 6 plus shoe damage
+## Photos: Part 6 plus shoe damage
 
-Originally posted on July 15th, 2014 5:27pm
+*Originally posted on July 15th, 2014 5:27pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/91897340916_0.jpg")
-knitr::include_graphics("images/91897340916_1.jpg")
-knitr::include_graphics("images/91897340916_2.jpg")
-knitr::include_graphics("images/91897340916_3.jpg")
-knitr::include_graphics("images/91897340916_4.jpg")
-knitr::include_graphics("images/91897340916_5.jpg")
-knitr::include_graphics("images/91897340916_6.jpg")
+knitr::include_graphics("images/91897340916_0.jpg", error = FALSE)
+knitr::include_graphics("images/91897340916_1.jpg", error = FALSE)
+knitr::include_graphics("images/91897340916_2.jpg", error = FALSE)
+knitr::include_graphics("images/91897340916_3.jpg", error = FALSE)
+knitr::include_graphics("images/91897340916_4.jpg", error = FALSE)
+knitr::include_graphics("images/91897340916_5.jpg", error = FALSE)
+knitr::include_graphics("images/91897340916_6.jpg", error = FALSE)
 ```
 
 ## The Rest
 
-Originally posted on September 26th, 2014 7:00pm
+*Originally posted on September 26th, 2014 7:00pm*
 
 On September 9th, I stood on top of Katahdin and got sunburned.  I had views for miles. I could see lakes I had walked by and small mountain ranges I had climbed. I was on top of the world.
 
@@ -797,45 +820,45 @@ Luckily, only a few cars passed before a middle-aged guy in a truck pulled over.
 
 Instantly, he started thinking out loud about what I could do. He was from Stratton, and he knew a bunch of people in town.
 
-“Actually, I’m looking after the Laundromat for a friend,” he said. “I think someone left a pack there. I’ll grab it for you!”
+"Actually, I’m looking after the Laundromat for a friend," he said. "I think someone left a pack there. I’ll grab it for you!"
 
 I smiled and said he didn’t have to do that, but he insisted. I really didn’t think anything would come of it, but I felt grateful that he was so willing to help me.
 
 I told him I was from Washington State and then asked him if he had ever been out there.
 
-“Yeah! I actually backpacked part of the Olympic coast, in the ‘80s.”
+"Yeah! I actually backpacked part of the Olympic coast, in the ‘80s."
 
 That made me really happy. I had done that same trip with my friends in high school. We talked about how great the hiking in Washington is right up until he dropped me back at the hostel in town. As he pulled away, he rolled down the window and yelled that he’d be back with whatever he could find at the Laundromat. I thanked him and waved as he drove away.
 
 Some thru-hikers I knew were sitting outside of the town’s tiny grocery store, so I went over and watched them eat. They were a funny group and got me laughing with their antics. One guy came out of the store with an entire watermelon, cut it in half, got his spoon out and proceeded to eat the whole thing.
 
-“He does that in every town,” his friend said, shaking his head.
+"He does that in every town," his friend said, shaking his head.
 
 The best part was that the kid’s name was Apple. He must’ve really liked fruit.
 
 About twenty minutes later, the truck pulled back up. I walked over and the man pulled a pack out.
 
-“I’m not sure if this will work, but this is what was at the Laundromat.”
+"I’m not sure if this will work, but this is what was at the Laundromat."
 
 It was a Spiderman backpack.
 
-It was too small. The way the man held it out, I could tell he had been disappointed by the size of it too. I smiled and started to shake my head. “I don’t think so, but thank you for going to the trouble.” But then he pulled another pack out.
+It was too small. The way the man held it out, I could tell he had been disappointed by the size of it too. I smiled and started to shake my head. "I don’t think so, but thank you for going to the trouble." But then he pulled another pack out.
 
-“What about this one?”
+"What about this one?"
 
 It was big pack, navy with a bright red bottom compartment. I turned it around a couple times. It was definitely made for someone taller than me, but I could make it work. It could work!
 
-“Yeah, I think so!” I smiled excitedly at him.
+"Yeah, I think so!" I smiled excitedly at him.
 
-“Great! Well, you know that trip I was telling you about? This is the pack I took on it.”
+"Great! Well, you know that trip I was telling you about? This is the pack I took on it."
 
-Instantly, I felt guilty. “I can’t take your pack! This is too much.” I tried to hand it back to him.
+Instantly, I felt guilty. "I can’t take your pack! This is too much." I tried to hand it back to him.
 
 He refused and told me to take it. Then he reached back into the truck, grabbed a piece of paper and jotted down his address.
 
-“Send me a postcard when you finish. Good luck on your hike!” He gave me a hug and drove away. I could’ve cried, I was so thankful.
+"Send me a postcard when you finish. Good luck on your hike!" He gave me a hug and drove away. I could’ve cried, I was so thankful.
 
-I walked back over to the thru-hikers, told them what happened, and they all just grinned, saying knowingly, “The trail provides.”
+I walked back over to the thru-hikers, told them what happened, and they all just grinned, saying knowingly, "The trail provides."
 
 Isn’t that the truth? If Jeff hadn’t been so generous, I likely would’ve had to wait in Stratton for a couple more days at least. I would’ve had to buy and ship a new pack to myself or I would’ve had to figure out a way to hitch to a bigger town with an outfitter. Instead, I got to hike out the next day. People are amazing.
 
@@ -851,7 +874,7 @@ When I saw the sign that marked the summit, I couldn’t help but pick up my pac
 
 My eyes were fixated on it. I took the final steps. I reached out and touched it. Words fell unnoticed from my lips.
 
-“Holyshitholyshitholyshitholyshit.”
+"Holyshitholyshitholyshitholyshit."
 
 I teared up a little bit and smiled so wide I felt like my face would split. I couldn’t believe I was actually there. I was done. I was on Katahdin. Holy shit.
 
@@ -871,11 +894,11 @@ We got checked into the hostel and then walked into town to find some celebrator
 
 There were two thru-hikers already sitting at a table. One looked absolutely miserable. He was sitting with elbows on the table, his head cradled in his hands, and a large plastic bowl in front of him. The other looked downright gleeful. He playfully pushed the bowl towards his friend.
 
-“Come on man, you gonna finish this or not?”
+"Come on man, you gonna finish this or not?"
 
-The other guy groaned. The happy friend was wearing a white shirt with the words “I conquered the Summit Sundae” written above a picture of a towering sundae. I wanted that shirt. I wanted to look that miserable.
+The other guy groaned. The happy friend was wearing a white shirt with the words "I conquered the Summit Sundae" written above a picture of a towering sundae. I wanted that shirt. I wanted to look that miserable.
 
-The Summit Sundae is not your average eating challenge. The half-gallon challenge seems like child’s play in comparison. Here’s the description of the sundae from its Facebook page (yes, it has an entire Facebook page dedicated to it): “starting with a banana, then 14 scoops of ice cream (one for each state the AT crosses), Snickers candy bar (hikers’ favorite food), a handful of M&M’s and an AT Cafe’s famous doughnut (made famous in Washington DC) all that topped with chocolate syrup, whipped cream & cherries. Eat it by yourself and you get to add your name to the pole of fame and we’ll give you a T-shirt & a bumper sticker and you get to keep the bowl!!”
+The Summit Sundae is not your average eating challenge. The half-gallon challenge seems like child’s play in comparison. Here’s the description of the sundae from its Facebook page (yes, it has an entire Facebook page dedicated to it): "starting with a banana, then 14 scoops of ice cream (one for each state the AT crosses), Snickers candy bar (hikers’ favorite food), a handful of M&M’s and an AT Cafe’s famous doughnut (made famous in Washington DC) all that topped with chocolate syrup, whipped cream & cherries. Eat it by yourself and you get to add your name to the pole of fame and we’ll give you a T-shirt & a bumper sticker and you get to keep the bowl!!"
 
 It comes out to about 4.5 POUNDS of food.
 
@@ -885,9 +908,9 @@ So, as Zeus and AB shook their heads at us and ordered real food, Achilles and I
 
 We decided to try and outrace the full feeling and trick our bodies into putting the whole sundae away. We only had to keep it down for five minutes after it was all eaten.
 
-When the sundaes came out, several groups of tourists came over and took our pictures. Then we got to it. I started by searching out the “special bits” that they’d added. The donut (think dense cake, not Krispy Kreme), snickers bar (frozen to a tooth-shattering degree), and banana were all cut up and scattered amongst the chocolate, strawberry and vanilla ice cream scoops.
+When the sundaes came out, several groups of tourists came over and took our pictures. Then we got to it. I started by searching out the "special bits" that they’d added. The donut (think dense cake, not Krispy Kreme), snickers bar (frozen to a tooth-shattering degree), and banana were all cut up and scattered amongst the chocolate, strawberry and vanilla ice cream scoops.
 
-“This is awesome!” I said, smiling wide as I shoveled ice cream into my mouth. “Right now this feels like a great decision. I know that pretty soon I’m not gonna feel good, but I’m super happy right now!”
+"This is awesome!" I said, smiling wide as I shoveled ice cream into my mouth. "Right now this feels like a great decision. I know that pretty soon I’m not gonna feel good, but I’m super happy right now!"
 
 But all too soon, I started getting cold. This was one of the problems the successful Summit Sundae-er had warned us about. That much ice cream in your stomach will drop your core temperature really quickly. His buddy was wearing multiple jackets. Achilles and I were not. Pretty soon, I was shivering so much I could hardly get the spoon to my mouth.
 
@@ -910,53 +933,53 @@ It was the most consistently happy I’ve ever been.
 
 Sonic
 
-## Photos posted September 26th, 2014 7:02pm
+## Photos: The Rest Part 1
 
-Originally posted on September 26th, 2014 7:02pm
+*Originally posted on September 26th, 2014 7:02pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/98513267496_0.jpg")
-knitr::include_graphics("images/98513267496_1.jpg")
-knitr::include_graphics("images/98513267496_2.jpg")
-knitr::include_graphics("images/98513267496_3.jpg")
-knitr::include_graphics("images/98513267496_4.jpg")
-knitr::include_graphics("images/98513267496_5.jpg")
-knitr::include_graphics("images/98513267496_6.jpg")
-knitr::include_graphics("images/98513267496_7.jpg")
-knitr::include_graphics("images/98513267496_8.jpg")
-knitr::include_graphics("images/98513267496_9.jpg")
+knitr::include_graphics("images/98513267496_0.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_1.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_2.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_3.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_4.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_5.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_6.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_7.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_8.jpg", error = FALSE)
+knitr::include_graphics("images/98513267496_9.jpg", error = FALSE)
 ```
 
-## Photos posted September 26th, 2014 7:04pm
+## Photos: The Rest Part 2
 
-Originally posted on September 26th, 2014 7:04pm
+*Originally posted on September 26th, 2014 7:04pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/98513342671_0.jpg")
-knitr::include_graphics("images/98513342671_1.jpg")
-knitr::include_graphics("images/98513342671_2.jpg")
-knitr::include_graphics("images/98513342671_3.jpg")
-knitr::include_graphics("images/98513342671_4.jpg")
-knitr::include_graphics("images/98513342671_5.jpg")
-knitr::include_graphics("images/98513342671_6.jpg")
-knitr::include_graphics("images/98513342671_7.jpg")
-knitr::include_graphics("images/98513342671_8.jpg")
-knitr::include_graphics("images/98513342671_9.jpg")
+knitr::include_graphics("images/98513342671_0.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_1.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_2.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_3.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_4.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_5.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_6.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_7.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_8.jpg", error = FALSE)
+knitr::include_graphics("images/98513342671_9.jpg", error = FALSE)
 ```
 
-## Photos posted September 26th, 2014 7:06pm
+## Photos: The Rest Part 3
 
-Originally posted on September 26th, 2014 7:06pm
+*Originally posted on September 26th, 2014 7:06pm*
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/98513491046_0.jpg")
-knitr::include_graphics("images/98513491046_1.jpg")
-knitr::include_graphics("images/98513491046_2.jpg")
-knitr::include_graphics("images/98513491046_3.jpg")
-knitr::include_graphics("images/98513491046_4.jpg")
-knitr::include_graphics("images/98513491046_5.jpg")
-knitr::include_graphics("images/98513491046_6.jpg")
-knitr::include_graphics("images/98513491046_7.jpg")
-knitr::include_graphics("images/98513491046_8.jpg")
+knitr::include_graphics("images/98513491046_0.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_1.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_2.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_3.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_4.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_5.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_6.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_7.jpg", error = FALSE)
+knitr::include_graphics("images/98513491046_8.jpg", error = FALSE)
 ```
 
