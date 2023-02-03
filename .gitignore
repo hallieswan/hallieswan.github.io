@@ -69,7 +69,7 @@ rsconnect/
 inst/doc
 doc
 Meta
-docs
+# docs - do track the site
 reference
 
 /.luarc.json
