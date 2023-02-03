@@ -1,0 +1,13 @@
+Package: hallieswan.github.io
+Title: Support for Personal Website Built on RMarkdown and GitHub Pages
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Hallie",
+           family = "Swan",
+           role = c("aut", "cre"),
+           email = "hallietheswan@gmail.com")
+Description: Supports the development and build of a personal website.
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

@@ -5,6 +5,6 @@ title: Home
 Welcome! I'm Hallie Swan. I enjoy software engineering, data science, and hiking. 
 
 ```{r, out.width = "100%", echo = FALSE}
-knitr::include_graphics("images/hallie_hiking_cdt.jpg")
+knitr::include_graphics("images/hallie_hiking_cdt.jpg", error = FALSE)
 ```
 
